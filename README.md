@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a Full-Stack AI Orchestrator and the University AI Hackathon '25 Champion, I am passionate about building scalable, AI-driven applications that solve real-world problems. My current focus is on honing my full-stack expertise while exploring new frontiers in AI-powered tools.<br><br>I am actively seeking to collaborate on open-source projects, particularly those at the intersection of AI and human-centric design. To that end, I am deepening my understanding of advanced system design, ethical AI practices, and strategies for scaling applications to an enterprise level.
+As a AI-Native Full-Stack Developer and the University AI Hackathon '25 Champion, I am passionate about building scalable, AI-driven applications that solve real-world problems. My current focus is on honing my full-stack expertise while exploring new frontiers in AI-powered tools.<br><br>I am actively seeking to collaborate on open-source projects, particularly those at the intersection of AI and human-centric design. To that end, I am deepening my understanding of advanced system design, ethical AI practices, and strategies for scaling applications to an enterprise level.
 
 
 ## 🌐 Socials:
