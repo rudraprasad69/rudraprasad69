@@ -9,7 +9,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=24,12,20,30,2&height=200&section=header&text=Rudra%20Prasad%20Barada&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI-Native%20Full-Stack%20Dev%20%E2%9A%A1%20Hackathon%20Champion%20%2725%20%E2%9C%A8&descSize=18&descAlignY=72)
 
 <a href="https://github.com/rudraprasad69">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=700&color=F77FBE&center=true&vCenter=true&multiline=true&width=820&height=110&lines=%E3%80%8CCode+is+the+sword+of+the+modern+age%E3%80%8D;Building+AI-Native+experiences+with+Next.js+%2B+TypeScript;Plus+Ultra+%F0%9F%92%AB+going+beyond+the+limits;Open+to+open-source+collaboration+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=700&color=F77FBE&center=true&vCenter=true&multiline=true&width=820&height=110&lines=%E3%80%8CCode+is+the+sword+of+the+modern+age%E3%80%8D;Building+AI-Native+experiences+with+Next.js+%2B+TypeScript;Plus+Ultra+%F0%9F%92%AB+going+beyond+the+limits;" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -245,7 +245,7 @@ As a AI-Native Full-Stack Developer and the University AI Hackathon '25 Champion
   <p align="center">
     <img src="https://skillicons.dev/icons?i=gcp,netlify,vercel,docker,git,github" alt="devops skills" />
   </p>
-  <p align="center"><i>Deployments on GCP / Netlify / Vercel. Containerized with Docker. CI/CD via GitHub Actions.</i></p>
+  <p align="center"><i>Deployments on GCP / Netlify / Vercel. Containerised with Docker. CI/CD via GitHub Actions.</i></p>
 </details>
 
 <details>
@@ -322,7 +322,6 @@ As a AI-Native Full-Stack Developer and the University AI Hackathon '25 Champion
     <tr><td>Geass / Death Note rules</td><td>API contracts &amp; preconditions</td></tr>
     <tr><td>El Psy Kongroo (Steins;Gate)</td><td>Idempotent commits &amp; rollbacks</td></tr>
     <tr><td>Plus Ultra! (MHA)</td><td>Stretch goals &amp; performance budgets</td></tr>
-    <tr><td>Hashira training (Demon Slayer)</td><td>Deliberate practice &amp; code review</td></tr>
   </table>
 </details>
 
