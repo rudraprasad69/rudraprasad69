@@ -39,7 +39,7 @@
 
 <div align="center">
 
-  <img src="file:///C:/Users/user/Downloads/ai-robot_1.svg" alt="R-69 Animated AI Robot" width="600" />
+  file:///C:/Users/user/Downloads/ai-robot.svg
 
   <p>
     <i>Hi! I'm <b>R-69</b> — Rudra's AI sidekick. I blink, wave, and broadcast code at <b>2 AM</b>.<br/>
