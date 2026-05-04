@@ -117,12 +117,12 @@ As a AI-Native Full-Stack Developer and the University AI Hackathon '25 Champion
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>🏥 Hospital Care Portal</h3>
-      <a href="https://github.com/rudraprasad69/Hospital-Care-Portal">
+      <!-- <a href="https://github.com/rudraprasad69/Hospital-Care-Portal">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudraprasad69&repo=Hospital-Care-Portal&theme=radical&hide_border=true&bg_color=0d1117&icon_color=F77FBE&title_color=58a6ff&text_color=c9d1d9&description_lines_count=2" alt="Hospital Care Portal pin" />
-      </a>
+      </a> -->
       <p>
         A comprehensive patient care portal built with <b>Next.js</b> + <b>TypeScript</b>.<br/>
-        Centralized platform to manage and access complete healthcare information.
+        Centralised platform to manage and access complete healthcare information.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" alt="nextjs" />
@@ -136,9 +136,9 @@ As a AI-Native Full-Stack Developer and the University AI Hackathon '25 Champion
     </td>
     <td width="50%" valign="top" align="center">
       <h3>⭐ Store Rating Platform</h3>
-      <a href="https://github.com/rudraprasad69/Store-Rating-Platform">
+      <!-- <a href="https://github.com/rudraprasad69/Store-Rating-Platform">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudraprasad69&repo=Store-Rating-Platform&theme=radical&hide_border=true&bg_color=0d1117&icon_color=F77FBE&title_color=58a6ff&text_color=c9d1d9&description_lines_count=2" alt="Store Rating Platform pin" />
-      </a>
+      </a> -->
       <p>
         Full-stack <b>Next.js</b> + <b>TypeScript</b> app where users rate &amp; review stores.<br/>
         Dedicated dashboards for users, store owners, and admins.
@@ -157,9 +157,9 @@ As a AI-Native Full-Stack Developer and the University AI Hackathon '25 Champion
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>🌊 Blue Carbon Registry (MRV)</h3>
-      <a href="https://github.com/rudraprasad69/Blue-Carbon-Registry-MRV-System">
+      <!-- <a href="https://github.com/rudraprasad69/Blue-Carbon-Registry-MRV-System">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudraprasad69&repo=Blue-Carbon-Registry-MRV-System&theme=radical&hide_border=true&bg_color=0d1117&icon_color=F77FBE&title_color=58a6ff&text_color=c9d1d9&description_lines_count=2" alt="Blue Carbon Registry MRV pin" />
-      </a>
+      </a> -->
       <p>
         Monitoring, Reporting &amp; Verification system for blue carbon ecosystems.<br/>
         Built with <b>TypeScript</b> for transparent climate data tracking.
