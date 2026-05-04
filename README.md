@@ -30,36 +30,11 @@
 </div>
 
 <!--═══════════════════════════════════════════════════════════════════════
-   🤖 NEW: ANIMATED AI ROBOT
-   The SVG file lives at: assets/ai-robot.svg in this repo.
-   It animates via embedded SMIL — no JS, no external service.
-═══════════════════════════════════════════════════════════════════════-->
-
-## 🤖 Meet R-69 · My AI Companion
-
-<!-- <div align="center">
-
-  <img src="https://raw.githubusercontent.com/rudraprasad69/rudraprasad69/main/assets/ai-robot.svg" alt="R-69 Animated AI Robot" width="600" />
-
-  <p>
-    <i>Hi! I'm <b>R-69</b> — Rudra's AI sidekick. I blink, wave, and broadcast code at <b>2 AM</b>.<br/>
-    Status: <b>SYSTEM OK</b> ✅ · Mood: <b>Plus Ultra</b> 💫 · Currently: <b>Compiling dreams into TypeScript</b></i>
-  </p>
-
-  <p>
-    <a href="https://github.com/rudraprasad69/rudraprasad69">
-      <img src="https://img.shields.io/badge/View%20R--69%20Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="View robot source" />
-    </a>
-  </p>
-
-</div> -->
-
-<!--═══════════════════════════════════════════════════════════════════════
    ⬇️  EXISTING CONTENT — UNTOUCHED
 ═══════════════════════════════════════════════════════════════════════-->
 
 # 💫 About Me:
-As a AI-Native Full-Stack Developer and the University AI Hackathon '25 Champion, I am passionate about building scalable, AI-driven applications that solve real-world problems. My current focus is on honing my full-stack expertise while exploring new frontiers in AI-powered tools.<br><br>I am actively seeking to collaborate on open-source projects, particularly those at the intersection of AI and human-centric design. To that end, I am deepening my understanding of advanced system design, ethical AI practices, and strategies for scaling applications to an enterprise level.
+As an AI-Native Full-Stack Developer and the University AI Hackathon '25 Champion, I am passionate about building scalable, AI-driven applications that solve real-world problems. My current focus is on honing my full-stack expertise while exploring new frontiers in AI-powered tools.<br><br>I am actively seeking to collaborate on open-source projects, particularly those at the intersection of AI and human-centric design. To that end, I am deepening my understanding of advanced system design, ethical AI practices, and strategies for scaling applications to an enterprise level.
 
 
 ## 🌐 Socials:
@@ -117,9 +92,6 @@ As a AI-Native Full-Stack Developer and the University AI Hackathon '25 Champion
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>🏥 Hospital Care Portal</h3>
-      <!-- <a href="https://github.com/rudraprasad69/Hospital-Care-Portal">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudraprasad69&repo=Hospital-Care-Portal&theme=radical&hide_border=true&bg_color=0d1117&icon_color=F77FBE&title_color=58a6ff&text_color=c9d1d9&description_lines_count=2" alt="Hospital Care Portal pin" />
-      </a> -->
       <p>
         A comprehensive patient care portal built with <b>Next.js</b> + <b>TypeScript</b>.<br/>
         Centralised platform to manage and access complete healthcare information.
