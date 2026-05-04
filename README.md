@@ -273,10 +273,6 @@ As a AI-Native Full-Stack Developer and the University AI Hackathon '25 Champion
   <br/>
   <table>
     <tr>
-      <td>📺 <b>Currently watching</b></td>
-      <td><i>Frieren: Beyond Journey's End</i></td>
-    </tr>
-    <tr>
       <td>🌟 <b>All-time favorites</b></td>
       <td>Steins;Gate · Code Geass · Vinland Saga · Death Note · FMA: Brotherhood</td>
     </tr>
