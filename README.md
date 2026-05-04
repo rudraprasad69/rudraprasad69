@@ -75,7 +75,6 @@ As a AI-Native Full-Stack Developer and the University AI Hackathon '25 Champion
 <!--═══════════════════════════════════════════════════════════════════════
    ✨ Animated contribution activity graph
 ═══════════════════════════════════════════════════════════════════════-->
-
 ## 📈 Contribution Activity Graph
 
 <div align="center">
