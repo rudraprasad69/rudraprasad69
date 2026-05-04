@@ -156,9 +156,9 @@ As a AI-Native Full-Stack Developer and the University AI Hackathon '25 Champion
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>🌊 Blue Carbon Registry (MRV)</h3>
-      <a href="https://github.com/rudraprasad69/Blue-Carbon-Registry-MRV-System">
+      <!-- <a href="https://github.com/rudraprasad69/Blue-Carbon-Registry-MRV-System">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudraprasad69&repo=Blue-Carbon-Registry-MRV-System&theme=radical&hide_border=true&bg_color=0d1117&icon_color=F77FBE&title_color=58a6ff&text_color=c9d1d9&description_lines_count=2" alt="Blue Carbon Registry MRV pin" />
-      </a>
+      </a> -->
       <p>
         Monitoring, Reporting &amp; Verification system for blue carbon ecosystems.<br/>
         Built with <b>TypeScript</b> for transparent climate data tracking.
