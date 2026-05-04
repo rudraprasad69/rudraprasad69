@@ -182,7 +182,7 @@ As a AI-Native Full-Stack Developer and the University AI Hackathon '25 Champion
         Won <b>1st place</b> at University AI Hackathon '25.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=white" alt="svg" />
+        <img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=white" alt="svg" /> <br>
         <img src="https://img.shields.io/badge/SMIL%20Animations-ff6ec7?style=flat-square" alt="smil" />
       </p>
       <!-- 🆕 Dedicated GitHub-icon repo button + portfolio button -->
