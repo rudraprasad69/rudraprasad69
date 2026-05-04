@@ -12,7 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=700&color=F77FBE&center=true&vCenter=true&multiline=true&width=820&height=110&lines=%E3%80%8CCode+is+the+sword+of+the+modern+age%E3%80%8D;Building+AI-Native+experiences+with+Next.js+%2B+TypeScript;Plus+Ultra+%F0%9F%92%AB+going+beyond+the+limits;Open+to+open-source+collaboration+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
-
 <br/>
 
 <p>
@@ -40,7 +39,7 @@
 
 <div align="center">
 
-  file:///C:/Users/user/Downloads/ai-robot.svg
+  <img src="https://raw.githubusercontent.com/rudraprasad69/rudraprasad69/main/assets/ai-robot.svg" alt="R-69 Animated AI Robot" width="600" />
 
   <p>
     <i>Hi! I'm <b>R-69</b> — Rudra's AI sidekick. I blink, wave, and broadcast code at <b>2 AM</b>.<br/>
