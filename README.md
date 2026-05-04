@@ -309,12 +309,15 @@ Working on something interesting? Let's talk. 🚀
 <a href="https://www.linkedin.com/in/rudra-prasad-barada/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
+
 <a href="mailto:baradrudra2003@gmail.com">
   <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
+
 <a href="https://rudra-prasad-barada-k6sxakl.gamma.site/">
   <img src="https://img.shields.io/badge/Visit%20Portfolio-7950F2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" />
 </a>
+
 <a href="https://instagram.com/rudra.prasad.08">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 </a>
