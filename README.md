@@ -12,6 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=700&color=F77FBE&center=true&vCenter=true&multiline=true&width=820&height=110&lines=%E3%80%8CCode+is+the+sword+of+the+modern+age%E3%80%8D;Building+AI-Native+experiences+with+Next.js+%2B+TypeScript;Plus+Ultra+%F0%9F%92%AB+going+beyond+the+limits;Open+to+open-source+collaboration+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
+
 <br/>
 
 <p>
