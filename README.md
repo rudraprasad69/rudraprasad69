@@ -37,7 +37,7 @@
 
 ## 🤖 Meet R-69 · My AI Companion
 
-<div align="center">
+<!-- <div align="center">
 
   <img src="https://raw.githubusercontent.com/rudraprasad69/rudraprasad69/main/assets/ai-robot.svg" alt="R-69 Animated AI Robot" width="600" />
 
@@ -52,7 +52,7 @@
     </a>
   </p>
 
-</div>
+</div> -->
 
 <!--═══════════════════════════════════════════════════════════════════════
    ⬇️  EXISTING CONTENT — UNTOUCHED
