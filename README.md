@@ -136,8 +136,8 @@ As a AI-Native Full-Stack Developer and the University AI Hackathon '25 Champion
     <td width="50%" valign="top" align="center">
       <h3>⭐ Store Rating Platform</h3>
       <a href="https://github.com/rudraprasad69/Store-Rating-Platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudraprasad69&repo=Store-Rating-Platform&theme=radical&hide_border=true&bg_color=0d1117&icon_color=F77FBE&title_color=58a6ff&text_color=c9d1d9&description_lines_count=2" alt="Store Rating Platform pin" />
-      </a>
+        <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudraprasad69&repo=Store-Rating-Platform&theme=radical&hide_border=true&bg_color=0d1117&icon_color=F77FBE&title_color=58a6ff&text_color=c9d1d9&description_lines_count=2" alt="Store Rating Platform pin" />
+      </a> -->
       <p>
         Full-stack <b>Next.js</b> + <b>TypeScript</b> app where users rate &amp; review stores.<br/>
         Dedicated dashboards for users, store owners, and admins.
