@@ -346,6 +346,7 @@ Working on something interesting? Let's talk. 🚀
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/rudra-prasad-barada/">
+   <br>
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:baradrudra2003@gmail.com">
