@@ -1,5 +1,5 @@
 <!--═══════════════════════════════════════════════════════════════════════
-   ✨ PREMIUM EDITION v2 — INTERACTIVE & ANIME-THEMED
+   ✨ ULTRA EDITION v3 — ANIMATED AI ROBOT + DEDICATED REPO ICONS
    All existing content is preserved verbatim per your instruction.
 ═══════════════════════════════════════════════════════════════════════-->
 
@@ -30,6 +30,31 @@
 </div>
 
 <!--═══════════════════════════════════════════════════════════════════════
+   🤖 NEW: ANIMATED AI ROBOT
+   The SVG file lives at: assets/ai-robot.svg in this repo.
+   It animates via embedded SMIL — no JS, no external service.
+═══════════════════════════════════════════════════════════════════════-->
+
+## 🤖 Meet R-69 · My AI Companion
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/rudraprasad69/rudraprasad69/main/assets/ai-robot.svg" alt="R-69 Animated AI Robot" width="600" />
+
+  <p>
+    <i>Hi! I'm <b>R-69</b> — Rudra's AI sidekick. I blink, wave, and broadcast code at <b>2 AM</b>.<br/>
+    Status: <b>SYSTEM OK</b> ✅ · Mood: <b>Plus Ultra</b> 💫 · Currently: <b>Compiling dreams into TypeScript</b></i>
+  </p>
+
+  <p>
+    <a href="https://github.com/rudraprasad69/rudraprasad69">
+      <img src="https://img.shields.io/badge/View%20R--69%20Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="View robot source" />
+    </a>
+  </p>
+
+</div>
+
+<!--═══════════════════════════════════════════════════════════════════════
    ⬇️  EXISTING CONTENT — UNTOUCHED
 ═══════════════════════════════════════════════════════════════════════-->
 
@@ -48,7 +73,7 @@ As a AI-Native Full-Stack Developer and the University AI Hackathon '25 Champion
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudraprasad69&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!--═══════════════════════════════════════════════════════════════════════
-   ✨ NEW: Animated contribution activity graph
+   ✨ Animated contribution activity graph
 ═══════════════════════════════════════════════════════════════════════-->
 
 ## 📈 Contribution Activity Graph
@@ -60,7 +85,7 @@ As a AI-Native Full-Stack Developer and the University AI Hackathon '25 Champion
 </div>
 
 <!--═══════════════════════════════════════════════════════════════════════
-   ✨ NEW: Animated snake (requires .github/workflows/snake.yml)
+   ✨ Animated snake (requires .github/workflows/snake.yml)
 ═══════════════════════════════════════════════════════════════════════-->
 
 ## 🐍 Watch My Contributions Get Eaten
@@ -82,87 +107,107 @@ As a AI-Native Full-Stack Developer and the University AI Hackathon '25 Champion
 ![](https://github-contributor-stats.vercel.app/api?username=rudraprasad69&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!--═══════════════════════════════════════════════════════════════════════
-   ✨ NEW: Featured Projects — rebuilt as HTML table with REAL data
-   from your screenshots so it survives if the pin cards 404
+   🚀 NEW: Featured Projects — every project has a DEDICATED
+   GitHub-octocat icon button as its repo-link affordance
 ═══════════════════════════════════════════════════════════════════════-->
 
 ## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏥 Hospital Care Portal</h3>
-      <p align="center">
-        <a href="https://github.com/rudraprasad69/Hospital-Care-Portal">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudraprasad69&repo=Hospital-Care-Portal&theme=radical&hide_border=true&bg_color=0d1117&icon_color=F77FBE&title_color=58a6ff&text_color=c9d1d9&description_lines_count=2" alt="Hospital Care Portal" />
-        </a>
+    <td width="50%" valign="top" align="center">
+      <h3>🏥 Hospital Care Portal</h3>
+      <a href="https://github.com/rudraprasad69/Hospital-Care-Portal">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudraprasad69&repo=Hospital-Care-Portal&theme=radical&hide_border=true&bg_color=0d1117&icon_color=F77FBE&title_color=58a6ff&text_color=c9d1d9&description_lines_count=2" alt="Hospital Care Portal pin" />
+      </a>
+      <p>
+        A comprehensive patient care portal built with <b>Next.js</b> + <b>TypeScript</b>.<br/>
+        Centralized platform to manage and access complete healthcare information.
       </p>
-      <p align="center">
-        A comprehensive patient care portal built with <b>Next.js</b> + <b>TypeScript</b>. Centralized platform to manage and access complete healthcare information.
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" alt="nextjs" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="ts" />
+        <img src="https://img.shields.io/badge/Healthcare-2ea44f?style=flat-square" alt="domain" />
       </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Healthcare-2ea44f?style=flat-square" />
-      </p>
+      <!-- 🆕 Dedicated GitHub-icon repo button -->
+      <a href="https://github.com/rudraprasad69/Hospital-Care-Portal">
+        <img src="https://img.shields.io/badge/%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⭐ Store Rating Platform</h3>
-      <p align="center">
-        <a href="https://github.com/rudraprasad69/Store-Rating-Platform">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudraprasad69&repo=Store-Rating-Platform&theme=radical&hide_border=true&bg_color=0d1117&icon_color=F77FBE&title_color=58a6ff&text_color=c9d1d9&description_lines_count=2" alt="Store Rating Platform" />
-        </a>
+    <td width="50%" valign="top" align="center">
+      <h3>⭐ Store Rating Platform</h3>
+      <a href="https://github.com/rudraprasad69/Store-Rating-Platform">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudraprasad69&repo=Store-Rating-Platform&theme=radical&hide_border=true&bg_color=0d1117&icon_color=F77FBE&title_color=58a6ff&text_color=c9d1d9&description_lines_count=2" alt="Store Rating Platform pin" />
+      </a>
+      <p>
+        Full-stack <b>Next.js</b> + <b>TypeScript</b> app where users rate &amp; review stores.<br/>
+        Dedicated dashboards for users, store owners, and admins.
       </p>
-      <p align="center">
-        Full-stack <b>Next.js</b> + <b>TypeScript</b> app where users rate and review stores. Dedicated dashboards for users, store owners, and admins.
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" alt="nextjs" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="ts" />
+        <img src="https://img.shields.io/badge/RBAC-8b5cf6?style=flat-square" alt="rbac" />
       </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/RBAC-8b5cf6?style=flat-square" />
-      </p>
+      <!-- 🆕 Dedicated GitHub-icon repo button -->
+      <a href="https://github.com/rudraprasad69/Store-Rating-Platform">
+        <img src="https://img.shields.io/badge/%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌊 Blue Carbon Registry (MRV)</h3>
-      <p align="center">
-        <a href="https://github.com/rudraprasad69/Blue-Carbon-Registry-MRV-System">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudraprasad69&repo=Blue-Carbon-Registry-MRV-System&theme=radical&hide_border=true&bg_color=0d1117&icon_color=F77FBE&title_color=58a6ff&text_color=c9d1d9&description_lines_count=2" alt="Blue Carbon Registry MRV System" />
-        </a>
+    <td width="50%" valign="top" align="center">
+      <h3>🌊 Blue Carbon Registry (MRV)</h3>
+      <a href="https://github.com/rudraprasad69/Blue-Carbon-Registry-MRV-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudraprasad69&repo=Blue-Carbon-Registry-MRV-System&theme=radical&hide_border=true&bg_color=0d1117&icon_color=F77FBE&title_color=58a6ff&text_color=c9d1d9&description_lines_count=2" alt="Blue Carbon Registry MRV pin" />
+      </a>
+      <p>
+        Monitoring, Reporting &amp; Verification system for blue carbon ecosystems.<br/>
+        Built with <b>TypeScript</b> for transparent climate data tracking.
       </p>
-      <p align="center">
-        Monitoring, Reporting &amp; Verification system for blue carbon ecosystems. Built with <b>TypeScript</b> for transparent climate data tracking.
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="ts" />
+        <img src="https://img.shields.io/badge/Climate%20Tech-00C7B7?style=flat-square" alt="climate" />
       </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Climate%20Tech-00C7B7?style=flat-square" />
-      </p>
+      <!-- 🆕 Dedicated GitHub-icon repo button -->
+      <a href="https://github.com/rudraprasad69/Blue-Carbon-Registry-MRV-System">
+        <img src="https://img.shields.io/badge/%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏆 AI Hackathon '25 — Champion</h3>
-      <p align="center">
+    <td width="50%" valign="top" align="center">
+      <h3>🤖 R-69 (This Profile)</h3>
+      <p>
         <img src="https://img.shields.io/badge/UNIVERSITY-AI%20HACKATHON%20'25-FFD700?style=for-the-badge&labelColor=8b5cf6" alt="Hackathon" />
       </p>
-      <p align="center">
-        Won <b>1st place</b> at the University AI Hackathon '25 — building the next generation of human-centric AI tools.
+      <p>
+        Animated AI-companion SVG + interactive profile dashboard.<br/>
+        Won <b>1st place</b> at University AI Hackathon '25.
       </p>
-      <p align="center">
-        <a href="https://github.com/rudraprasad69?tab=repositories">
-          <img src="https://img.shields.io/badge/Browse%20All%2019%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="all repos" />
-        </a>
-        <br/><br/>
-        <a href="https://rudra-prasad-barada-k6sxakl.gamma.site/">
-          <img src="https://img.shields.io/badge/Live%20Portfolio-7950F2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" />
-        </a>
+      <p>
+        <img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=white" alt="svg" />
+        <img src="https://img.shields.io/badge/SMIL%20Animations-ff6ec7?style=flat-square" alt="smil" />
       </p>
+      <!-- 🆕 Dedicated GitHub-icon repo button + portfolio button -->
+      <a href="https://github.com/rudraprasad69/rudraprasad69">
+        <img src="https://img.shields.io/badge/%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="github repo" />
+      </a>
+      <a href="https://rudra-prasad-barada-k6sxakl.gamma.site/">
+        <img src="https://img.shields.io/badge/%20Live%20Portfolio-7950F2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" />
+      </a>
     </td>
   </tr>
 </table>
 
+<div align="center">
+  <a href="https://github.com/rudraprasad69?tab=repositories">
+    <img src="https://img.shields.io/badge/%20Browse%20All%2019%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="all repos" />
+  </a>
+  <a href="https://github.com/rudraprasad69?tab=stars">
+    <img src="https://img.shields.io/badge/%20Starred%20Repos-f7df1e?style=for-the-badge&logo=github&logoColor=black" alt="stars" />
+  </a>
+</div>
+
 <!--═══════════════════════════════════════════════════════════════════════
-   ✨ NEW: Skill Architecture — native <details> collapsibles
-   These ARE genuinely interactive in GitHub READMEs
+   🎯 Skill Architecture — interactive collapsibles
 ═══════════════════════════════════════════════════════════════════════-->
 
 ## 🎯 Skill Architecture
@@ -212,7 +257,7 @@ As a AI-Native Full-Stack Developer and the University AI Hackathon '25 Champion
 </details>
 
 <!--═══════════════════════════════════════════════════════════════════════
-   🌸 NEW: ANIME CORNER — your stated interest, made interactive
+   🌸 ANIME CORNER
 ═══════════════════════════════════════════════════════════════════════-->
 
 ## 🌸 Anime Corner
@@ -282,7 +327,7 @@ As a AI-Native Full-Stack Developer and the University AI Hackathon '25 Champion
 </details>
 
 <!--═══════════════════════════════════════════════════════════════════════
-   ✨ NEW: Daily-rotating dev quote
+   💭 Daily-rotating dev quote
 ═══════════════════════════════════════════════════════════════════════-->
 
 ## 💭 Quote of the Day
@@ -294,7 +339,7 @@ As a AI-Native Full-Stack Developer and the University AI Hackathon '25 Champion
 </div>
 
 <!--═══════════════════════════════════════════════════════════════════════
-   ✨ NEW: Call-to-action / Connect
+   🤝 Call-to-action
 ═══════════════════════════════════════════════════════════════════════-->
 
 ## 🤝 Let's Build Something Together
@@ -309,15 +354,12 @@ Working on something interesting? Let's talk. 🚀
 <a href="https://www.linkedin.com/in/rudra-prasad-barada/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-
 <a href="mailto:baradrudra2003@gmail.com">
   <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
-
 <a href="https://rudra-prasad-barada-k6sxakl.gamma.site/">
   <img src="https://img.shields.io/badge/Visit%20Portfolio-7950F2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio" />
 </a>
-
 <a href="https://instagram.com/rudra.prasad.08">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 </a>
@@ -328,7 +370,7 @@ Working on something interesting? Let's talk. 🚀
 [![](https://visitcount.itsvg.in/api?id=rudraprasad69&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <!--═══════════════════════════════════════════════════════════════════════
-   ✨ NEW: Anime-themed footer wave with Japanese "thank you"
+   ✨ Anime-themed footer wave with Japanese "thank you"
 ═══════════════════════════════════════════════════════════════════════-->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,20,30,2&height=140&section=footer&animation=fadeIn&text=%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%20%C2%B7%20Thanks%20for%20visiting&fontSize=20&fontColor=ffffff&fontAlignY=80)
