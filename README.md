@@ -248,7 +248,7 @@ As a AI-Native Full-Stack Developer and the University AI Hackathon '25 Champion
 </details>
 
 <details>
-  <summary><b>🛠️ Tooling</b></summary>
+  <summary><b>🛠️ Tooling</b></summary> 
   <br/>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=vscode,figma,postman,linux" alt="tooling skills" />
