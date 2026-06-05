@@ -23,7 +23,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Hackathon-Champion%20%2725-gold?style=for-the-badge&labelColor=8b5cf6" alt="hackathon" />
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D-Bhanjanagar%2C%20Odisha%2C%20India-1e1e2e?style=for-the-badge" alt="location" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D-Bhubaneswar%2C%20Odisha%2C%20India-1e1e2e?style=for-the-badge" alt="location" />
   <img src="https://img.shields.io/badge/%F0%9F%92%BC-Freelance%20Developer-2ea44f?style=for-the-badge" alt="freelance" />
 </p>
 
