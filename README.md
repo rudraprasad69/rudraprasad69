@@ -23,7 +23,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Hackathon-Champion%20%2725-gold?style=for-the-badge&labelColor=8b5cf6" alt="hackathon" />
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D-Bangalore%2C%20Karnataka%2C%20India-1e1e2e?style=for-the-badge" alt="location" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D-Bengaluru%2C%20Karnataka%2C%20India-1e1e2e?style=for-the-badge" alt="location" />
 </p>
 
 </div>
