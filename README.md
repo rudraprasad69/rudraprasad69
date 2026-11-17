@@ -168,9 +168,6 @@ As an AI-Native Full-Stack Developer and the University AI Hackathon '25 Champio
   <a href="https://github.com/rudraprasad69?tab=repositories">
     <img src="https://img.shields.io/badge/%20Browse%20All%2019%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="all repos" />
   </a>
-  <a href="https://github.com/rudraprasad69?tab=stars">
-    <img src="https://img.shields.io/badge/%20Starred%20Repos-f7df1e?style=for-the-badge&logo=github&logoColor=black" alt="stars" />
-  </a>
 </div>
 
 <!--═══════════════════════════════════════════════════════════════════════
